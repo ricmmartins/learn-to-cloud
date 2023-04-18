@@ -76,7 +76,7 @@ Nós recomendamos tirar ao menos uma certificação e se tirar apenas uma, esta 
 - Nível de entrada:
   - [Certificação Cloud Practitioner da AWS](https://aws.amazon.com/certification/certified-cloud-practitioner/)
   - [Azure Fundamentals AZ-900](https://docs.microsoft.com/learn/certifications/exams/az-900).
-  - [Cursinho de estudo para Azure Fundamentals AZ-900](https://github.com/ricmmartins/study-guide-az900)
+  - [Material de estudo para Azure Fundamentals AZ-900](http://fundamentosdoazure.com.br/)
   - [Certificação Líder Digital da GCP](https://cloud.google.com/certification/cloud-digital-leader)
 - Nível de associado:
   - [AWS](https://aws.amazon.com/certification/): Qualquer uma.
