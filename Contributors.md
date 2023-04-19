@@ -25,17 +25,17 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/ViniViniAntunes">
-            <img src="https://avatars.githubusercontent.com/u/57882903?v=4" width="100;" alt="ViniViniAntunes"/>
-            <br />
-            <sub><b>Vini Antunes</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/ricmmartins">
             <img src="https://avatars.githubusercontent.com/u/44813563?v=4" width="100;" alt="ricmmartins"/>
             <br />
             <sub><b>Ricardo Martins</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ViniViniAntunes">
+            <img src="https://avatars.githubusercontent.com/u/57882903?v=4" width="100;" alt="ViniViniAntunes"/>
+            <br />
+            <sub><b>Vini Antunes</b></sub>
         </a>
     </td>
     <td align="center">
